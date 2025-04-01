@@ -1,0 +1,33 @@
+Activity,Start Time,End Time,Happiness Level (1-5),Durations
+Sleep,02:00:00,07:20:00,5,5.33
+Get Ready,07:20:00,08:30:00,1,1.17
+Work,09:00:00,11:00:00,4,2.00
+Break,11:00:00,15:20:00,4,4.33
+Work,15:20:00,16:30:00,3,1.17
+Break,16:30:00,18:10:00,3,1.67
+Work,18:10:00,19:50:00,2,1.67
+Go Home,19:50:00,20:23:00,3,0.55
+Make Dinner,20:30:00,21:00:00,3,0.50
+Relax,21:00:00,02:00:00,5,5.00
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+"Summary: The day features three work sessions with declining happiness levels (4, 3, then 2). Notably, there are relatively long breaks interspersed between these work periods, both before the first afternoon work session and after it, each associated with moderate happiness levels (4 and 3). ""Get Ready"" shows the lowest happiness (1), while ""Sleep"" and ""Relax"" are the most enjoyable (5) and also account for significant portions of the day's duration. Shorter activities include ""Go Home"" and ""Make Dinner,"" which have moderate happiness scores.",,,,
